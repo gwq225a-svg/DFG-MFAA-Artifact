@@ -4,7 +4,8 @@ Corresponding code to the paper "Dynamic Frequency-Guided Multi-Feature Attentio
 
 DFG-MFAA improves the transferability of adversarial examples by combining multi-feature attention, residual feature response recalibration, and dynamic frequency-guided gradient modulation.
 
-![final_2samples_compare](C:\Users\lenovo\Desktop\final_2samples_compare.png)
+<img width="6297" height="4171" alt="final_2samples_compare" src="https://github.com/user-attachments/assets/d7cfe618-bb97-4a65-a1e9-176b4861ff75" />
+
 
 # Requirements
 
